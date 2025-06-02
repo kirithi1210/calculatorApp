@@ -17,4 +17,4 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 
 ---
 
-Made with ❤️ by Kirithi using web technologies.
+Made  by Kirithi using web technologies.
